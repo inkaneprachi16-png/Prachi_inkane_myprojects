@@ -1,0 +1,9 @@
+101,mangement,manage the the company events,12-10-2025,20-11-2025 00:00:00,low,prachi@123,completed
+102,data analysis,createed data can be analys,23-11-2025,02-12-2025 00:00:00,urgent,ritu@123,completed
+103,create report,collect data from employee and create their report,12-10-2025,30-11-2025,low,smir@123,Pending
+104,add data,collect data and add in excel sheet,23-09-2025,19-11-2025 00:00:00,medium,ram@123,completed
+105,analyse the data,analiese the data  from databases,30-10-25,23-11-2025,low,prachi@1234,in progress
+106,profile,create frofile,12-11-2025,20-11-2025 00:00:00,urgent,rani@123,completed
+108,data enry,to collect data  and enteer data in files,12-09-2025,12-12-2025,medium,smir@123,Pending
+109,graphic design,create graphic design of give data,12-12-2025,30-12-2025 00:00:00,medium,prachi@123,completed
+123,anss,852,852555,20-12-2025 00:00:00,low,prachi@123,completed

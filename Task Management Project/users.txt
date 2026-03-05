@@ -1,0 +1,14 @@
+admin, 1234,admin
+user@123, 1234, user
+kalyani@123, 1234, user
+rani@123, rani@123, user
+ram@123, ram@1234, user
+shyam@123, 1234, user
+priya@123, p@1234, user
+ritu@123, ritu@123, user
+smir@123, 1234, user
+prachi@123, prachi, user
+prachi@1234, prachi, user
+tanvi@123, tanu, user
+ravi@123, ravi, user
+prachi@1231, prachi, user
